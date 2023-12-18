@@ -4,10 +4,7 @@ h1{
     font-size: 1.75em;
 }
 .div1, .div2, .div3{
-    /* background-color: aqua; */
-    background: #2BC0E4;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-color: #91EAE4;
     font-family: Arial, Helvetica, sans-serif;
     float: left;
     box-sizing: border-box;
@@ -24,9 +21,9 @@ p.title{
     margin-top: -10px;
     margin-left: 70%;
 /*     background-color: antiquewhite; */
-    background: #FFAFBD;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #ffc3a0, #FFAFBD); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: #FFAFBD; 
+    background: -webkit-linear-gradient(to right, #ffc3a0, #FFAFBD);  
+    background: linear-gradient(to right, #ffc3a0, #FFAFBD); 
     text-align: center;
     border: 1px black solid;
     padding: 10px;
